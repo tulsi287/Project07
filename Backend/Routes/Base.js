@@ -1,6 +1,6 @@
 const express=require("express");
 const router=express.Router();
-const Testing=require("../Controler/Testing.js")
+const Testing=require("../Controller/Testing.js")
 
 
 router.get("/testing",Testing.testing);
