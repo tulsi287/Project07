@@ -1,6 +1,6 @@
 const test=(req,res,next)=>{
-
-    console.log("Middleware Calling!");
+     const date=new Date();
+    console.log(`Date:${date}, Url: ${req.originalUrl}`);
     next()
     
 
