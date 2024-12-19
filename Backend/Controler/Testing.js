@@ -1,5 +1,5 @@
- const testing=(req,res)=>{
-    res.send("Hello from Controler Testing!!!!")
-}
+const testing = (req, res) => {
+  res.send("Hello fgntrhjrtyjrom Controler Testing!!!!");
+};
 
-module.exports={testing};
+module.exports = { testing };
