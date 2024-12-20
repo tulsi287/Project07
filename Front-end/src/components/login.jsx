@@ -8,7 +8,7 @@ function login() {
        </div>
         <div>
         <text>Entre your PassWord:</text>
-        <input className="bg-blue-300" type="PassWord"></input>
+        <input className="bg-blue-300" type="PassWordd"></input>
         </div>
       </div>
    
